@@ -1,0 +1,7 @@
+% data description
+Use the 'Riverside_time_update.csv' data to Run routing in Networkx.
+then route the routing pair in 'routing_pair.csv'. 
+Get the 'routing_result.csv'
+Order information in 'order_48.csv'
+Assign task map to orders. Each order has two task id, pick_up and delivery.
+Driver's data in 'driver_10_unique_id.csv'
